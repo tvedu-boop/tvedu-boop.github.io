@@ -1,0 +1,13 @@
+{
+  "default": {
+    "firstScene": "main"
+  },
+  "scenes": {
+    "main": {
+      "type": "equirectangular",
+      "panorama": "panorama.jpg",
+      "autoLoad": true,
+      "title": "My 360 Panorama"
+    }
+  }
+}
