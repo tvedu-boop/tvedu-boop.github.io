@@ -1,0 +1,8 @@
+{
+  "type": "equirectangular",
+  "panorama": "panorama.jpg",
+  "autoLoad": true,
+  "title": "My Panorama",
+  "showZoomCtrl": true,
+  "showFullscreenCtrl": true
+}
